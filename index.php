@@ -80,12 +80,10 @@
                         <img src="img/Book.png" alt="book">
                     </div>
 
-
-                    <div class="col-12 col-lg-6 mov mov_zoomIn_start">
-
-                <!-- SendPulse Form -->
-                 
                  <div class="col-12 col-lg-6 mov mov_zoomIn_start sp-form-outer sp-force-hide">
+
+                    <!-- SendPulse Form -->
+                     
                     <div id="sp-form-99597" sp-id="99597" sp-hash="814a7f3c767e69bbca56929d752f9f2731ad6af68ecc9d4c4ae2c0977eaf382e" sp-lang="ru" class="sp-form sp-form-regular sp-form-embed" sp-show-options="%7B%22satellite%22%3Afalse%2C%22maDomain%22%3A%22login.sendpulse.com%22%2C%22formsDomain%22%3A%22forms.sendpulse.com%22%2C%22condition%22%3A%22onEnter%22%2C%22scrollTo%22%3A25%2C%22delay%22%3A10%2C%22repeat%22%3A3%2C%22background%22%3A%22rgba(0%2C%200%2C%200%2C%200.5)%22%2C%22position%22%3A%22bottom-right%22%2C%22animation%22%3A%22%22%2C%22hideOnMobile%22%3Afalse%2C%22urlFilter%22%3Afalse%2C%22urlFilterConditions%22%3A%5B%7B%22force%22%3A%22hide%22%2C%22clause%22%3A%22contains%22%2C%22token%22%3A%22%22%7D%5D%7D">
                         <div class="sp-form-fields-wrapper">
                             <div class="sp-message">
@@ -132,77 +130,64 @@
                     <script type="text/javascript" src="//static-login.sendpulse.com/apps/fc3/build/default-handler.js?1526462554659"></script> 
                     
 
-                <style>
-                    .sp-form {
-                        display: block;
-                        margin: 0;
-                        padding: 0;
-                        border-radius: 0px;
-                        border: none;
-                        width: auto;
-                        max-width: 100%;
-                        background: 0 0;
-                        color: #fff;
-                        font-family: unset;
-                        line-height: 1.4;
-                    }
-                    .sp-form .sp-field {
-                        padding: 0px;
-                        position: relative;
-                        text-align: left;
-                        font-size: 16px;
-                    }
-                    .sp-form .sp-button, .sp-form .sp-form-control {
-                        line-height: normal;
-                        font-size: none;
-                        border: none;
-                        border-radius: 0;
-                        height: auto;
-                        white-space: nowrap;
-                        padding: 0;
+                    <style>
+                        .sp-form {
+                            display: block;
+                            margin: 0;
+                            padding: 0;
+                            border-radius: 0px;
+                            border: none;
+                            width: auto;
+                            max-width: 100%;
+                            background: 0 0;
+                            color: #fff;
+                            font-family: unset;
+                            line-height: 1.4;
+                        }
+                        .sp-form .sp-field {
+                            padding: 0px;
+                            position: relative;
+                            text-align: left;
+                            font-size: 16px;
+                        }
+                        .sp-form .sp-button, .sp-form .sp-form-control {
+                            line-height: normal;
+                            font-size: none;
+                            border: none;
+                            border-radius: 0;
+                            height: auto;
+                            white-space: nowrap;
+                            padding: 0;
 
-                        width: 100%;
-                        height: 54px;
-                        border: none;
-                        border: 1px solid rgb(204, 204, 204);
-                        border-radius: 2px;
-                        text-align: left;
-                        background-color: rgb(255, 255, 255);
-                        font-size: 18px;
-                        color: rgb(49, 49, 49);
-                        padding-left: 28px;
-                        margin-bottom: 20px;
-                    }
-                    .sp-form button, .sp-form input, .sp-form input[type=text], .sp-form input[type=email], .sp-form input[type=tel], .sp-form input[type=number], .sp-form optgroup, .sp-form select, .sp-form textarea {
-                        
-                        margin-bottom: 20px;
-                        color: rgb(49, 49, 49);
-                    }
-                    .sp-form .sp-field .button_1{   
-                        font-family: "MyriadProBold"; 
-                        color: rgb(49, 49, 49);
-                    }
-                    .sp-form h1, .sp-form h2, .sp-form h3, .sp-form h4, .sp-form h5, .sp-form p {
-                        line-height: normal;
-                        margin: 0; 
-                    }
-                </style>
-                <!-- /SendPulse Form -->
-
-
-
-                        
-                        
+                            width: 100%;
+                            height: 54px;
+                            border: none;
+                            border: 1px solid rgb(204, 204, 204);
+                            border-radius: 2px;
+                            text-align: left;
+                            background-color: rgb(255, 255, 255);
+                            font-size: 18px;
+                            color: rgb(49, 49, 49);
+                            padding-left: 28px;
+                            margin-bottom: 20px;
+                        }
+                        .sp-form button, .sp-form input, .sp-form input[type=text], .sp-form input[type=email], .sp-form input[type=tel], .sp-form input[type=number], .sp-form optgroup, .sp-form select, .sp-form textarea {
+                            
+                            margin-bottom: 20px;
+                            color: rgb(49, 49, 49);
+                        }
+                        .sp-form .sp-field .button_1{   
+                            font-family: "MyriadProBold"; 
+                            color: rgb(49, 49, 49);
+                        }
+                        .sp-form h1, .sp-form h2, .sp-form h3, .sp-form h4, .sp-form h5, .sp-form p {
+                            line-height: normal;
+                            margin: 0; 
+                        }
+                    </style>
+                    <!-- /SendPulse Form -->
 
 
-
-
-
-
-
-
-
-                    </div>
                 </div>
             </div>
 
